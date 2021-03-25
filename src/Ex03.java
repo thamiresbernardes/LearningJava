@@ -6,7 +6,7 @@ public class Ex03 {
 
         Locale.setDefault(Locale.US);
         double Largura, Comprimento, MetroQuadrado, Area, Preco;
-        int num1, num2, Soma;
+        int num1, num2, num3, num4, Soma, Diferenca;
 
         Scanner sc = new Scanner(System.in);
 
@@ -22,14 +22,21 @@ public class Ex03 {
         System.out.printf("A Area total do projeto é %.2f%n", Area);
         System.out.printf("E seu preco final será %.2f%n", Preco);
 
-        System.out.println("Agora entre com um número: ");
+        System.out.println("Operações com números! ");
+        System.out.println("Agora entre com o primeiro número: ");
         num1 = sc.nextInt();
-        System.out.println("Agora entre com outro número: ");
+        System.out.println("Agora entre com o segundo número: ");
         num2 = sc.nextInt();
+        System.out.println("Agora entre com o terceiro número: ");
+        num3 = sc.nextInt();
+        System.out.println("Agora entre com o quarto número: ");
+        num4 = sc.nextInt();
 
         Soma = num1 + num2;
+        Diferenca = ((num1 * num2) - (num3 * num4));
 
-        System.out.println("A soma dos dois números é:" + Soma);
+        System.out.println("A soma dos dois primeiros números é:" + Soma);
+        System.out.println("A diferença do produto dos numeros é:" + Diferenca);
 
     }
 }
