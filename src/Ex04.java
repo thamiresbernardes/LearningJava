@@ -17,6 +17,7 @@ public class Ex04 {
         area = (pi * (raio * raio));
 
         System.out.printf("A Area total do círculo é %.4f%n", area);
+        sc.close();
     }
 
 }
