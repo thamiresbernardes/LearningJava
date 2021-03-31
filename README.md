@@ -4,11 +4,11 @@
 
 Códigos desenvolvidos durante o estudo da linguagem Java. É separado por Programação Estruturada e Programação rientada a objetos (POO). 
 
-# Tecnologias utilizadas
-## Back end
+## Tecnologias utilizadas
+### Back end
 - Java
 
-# Autor
+### Autor
 
 Thamires Bernardes
 
