@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https:/https://github.com/thamiresbernardes/LearningJava/new/main?readme=1) 
 
-Códigos desenvolvidos durante o estudo da linguagem Java. É separado por Programação Estruturada e Programação rientada a objetos (POO). 
+Códigos desenvolvidos durante o estudo da linguagem Java. É separado por Programação estruturada e Programação orientada a objetos (POO). 
 
 ## Tecnologias utilizadas
 ### Back end
