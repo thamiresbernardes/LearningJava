@@ -24,5 +24,7 @@ public class Ex02 {
 
         System.out.println("nome do aluno: " + nome);
         System.out.println("Media: " + media);
+        
+        sc.close();
     }
 }
