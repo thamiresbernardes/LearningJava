@@ -7,7 +7,7 @@ public class Ex05 {
 
         Locale.setDefault(Locale.US);
 
-        System.out.println("Programa que dado três medidas, calcula áreas de figuras geométricas! ");
+        System.out.println("Programa que dado três medidas, calcula a área de figuras geométricas! ");
 
         Scanner sc = new Scanner(System.in);
 

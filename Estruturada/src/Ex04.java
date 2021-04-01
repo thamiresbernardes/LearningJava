@@ -11,7 +11,7 @@ public class Ex04 {
         double raio, area, pi = 3.14159;
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite o raio do círculo: ");
+        System.out.println("Digite o raio do círculo : ");
         raio = sc.nextDouble();
 
         area = (pi * (raio * raio));

@@ -4,8 +4,8 @@ public class Ex01 {
         int num1 = 0, num2 = 0, soma = 0, multiplicacao = 0, subtracao = 0;
         float divisao = 0;
 
-        num1 = 11;
-        num2 = 5;
+        num1 = 13;
+        num2 = 2;
         soma = num1 + num2;
         multiplicacao = num1 * num2;
         subtracao = num1 - num2;

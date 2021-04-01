@@ -14,7 +14,7 @@ public class Ex08 {
         System.out.println("Entre com o preço do produto ");
         preco = sc.nextDouble();
 
-        desconto = (preco < 35.0) ? preco * 0.01 : preco * 0.05;
+        desconto = (preco < 35.0) ? preco * 0.02 : preco * 0.05;
 
         System.out.println("O valor do desconto é: " + desconto);
         sc.close();

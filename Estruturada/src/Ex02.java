@@ -11,13 +11,13 @@ public class Ex02 {
         Scanner sc = new Scanner(System.in);
         nome = sc.next();
 
-        System.out.println("Digite a nota da primeira prova");
+        System.out.println("Digite a nota da primeira prova: ");
         nota1 = sc.nextInt();
 
-        System.out.println("Digite a nota da segunda prova");
+        System.out.println("Digite a nota da segunda prova: ");
         nota2 = sc.nextInt();
 
-        System.out.println("Digite a nota da terceira prova");
+        System.out.println("Digite a nota da terceira prova: ");
         nota3 = sc.nextInt();
 
         media = (nota1 + nota2 + nota3) / 3;

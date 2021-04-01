@@ -7,7 +7,7 @@ public class Ex06 {
 
         Locale.setDefault(Locale.US);
 
-        System.out.println("Programa que informa se é manhã, tarde ou noite!");
+        System.out.println("Programa que informa se é manhã, tarde ou noite.");
 
         Scanner sc = new Scanner(System.in);
 

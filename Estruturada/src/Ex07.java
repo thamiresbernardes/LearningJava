@@ -42,7 +42,7 @@ public class Ex07 {
             dia = "Número inválido";
             break;
         }
-        System.out.println("O dia da semana baseado no que você digitou é: " + dia);
+        System.out.println("Dia da semana: " + dia);
         sc.close();
     }
 }

@@ -14,7 +14,7 @@ public class Ex03 {
         largura = sc.nextDouble();
         System.out.println("Entre com o comprimento da parede a ser pintada:");
         comprimento = sc.nextDouble();
-        System.out.println("Quantos mestros quadrados tem o comodo? ");
+        System.out.println("Quantos mestros quadrados tem o comodo: ");
         metroQuadrado = sc.nextDouble();
         area = largura * comprimento;
         preco = area * metroQuadrado;
