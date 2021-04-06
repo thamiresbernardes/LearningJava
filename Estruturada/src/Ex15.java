@@ -23,7 +23,7 @@ public class Ex15 {
     		num2 = sc.nextDouble();
     		num3 = sc.nextDouble();
     		media = ((num1*2)+(num2*3)+(num3*5))/10 ;
-        	System.out.printf(" Médias dos números: %.2f%n" ,media);
+        	System.out.printf(" Médias ponderada dos números: %.2f%n" ,media);
     		
     		}
     	   	
